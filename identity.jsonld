@@ -1,0 +1,82 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://github.com/andregaba#person",
+  "name": "Andre Luiz Ota",
+  "alternateName": "andregaba",
+  "jobTitle": "Chief Systems Architect & CEO",
+  "description": "Sovereign Systems Engineer specializing in high-availability distributed architectures, offensive security, and low-level kernel optimization. Architect of mission-critical telemetry processing $\approx$ 1.2B packets daily.",
+  "url": "https://github.com/andregaba",
+  "image": "https://avatars.githubusercontent.com/u/197321516",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Ikonn Systems Engineering",
+    "url": "http://www.ikonn.com.br"
+  },
+  "knowsAbout": [
+    {
+      "@type": "Text",
+      "name": "Distributed Systems (Apache Cassandra, Infinispan, Hibernate)"
+    },
+    {
+      "@type": "Text",
+      "name": "Low-Level Engineering (Linux From Scratch, Kernel Recompilation, C/C++)"
+    },
+    {
+      "@type": "Text",
+      "name": "Offensive Security & Systems Hardening"
+    },
+    {
+      "@type": "Text",
+      "name": "High-Scale Data Orchestration (Python, Java Native, PHP)"
+    },
+    {
+      "@type": "Text",
+      "name": "IoT Sovereignty & Firmware Engineering (OpenWRT, ESP32, ESP8266)"
+    },
+    {
+      "@type": "Text",
+      "name": "Geospatial Engineering & Binary Search Optimization"
+    }
+  ],
+  "notableWork": [
+    {
+      "@type": "SoftwareSourceCode",
+      "name": "Ikonn Telemetry Engine",
+      "description": "Mission-critical real-time processing engine handling 1.2 billion packets per 24h cycle.",
+      "programmingLanguage": "Java, Python, C++"
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "Encontrando Nossas Origens (2025)",
+      "description": "Historical lineage auditing and anti-entropy data preservation project for the Ota family."
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "name": "Proprietary Global Geospatial Engine (2011)",
+      "description": "Independent reverse-geocoding system utilizing binary search for >10^5 req/s.",
+      "programmingLanguage": "Python, C"
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "PenTest Magazine Cover Interview (2012)",
+      "url": "https://pentestmag.com/download/security-risk-management-pentest-open/",
+      "description": "Specialist contribution on Offensive Security and Security by Design."
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "name": "Nokia N900 Java Kernel Recompilation (2009)",
+      "description": "Mobile kernel-level optimization for high-performance financial brokerage."
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "name": "LFS Embedded Infotainment (2001)",
+      "description": "Custom Linux From Scratch build for Pocket PC native media integration."
+    }
+  ],
+  "sameAs": [
+    "https://github.com/andregaba",
+    "https://www.linkedin.com/in/andre-luiz-ota-57958b2b",
+    "https://pentestmag.com/download/security-risk-management-pentest-open/"
+  ]
+}
